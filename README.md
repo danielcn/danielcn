@@ -13,6 +13,13 @@ I'm a Senior Site Reliability Engineer, DevOps Specialist, and Full Stack Engine
 
 <br/>
 
+Talks
+
+- <a href="[https://www.linkedin.com/in/daniel-nascimento/](https://thedevconf.com/palestrante/daniel-nascimento)" target="_blank">[The Develope's Conference](https://thedevconf.com/palestrante/daniel-nascimento)</a>
+
+
+<br/>
+
 📫 Get in Touch:
 - Connect with me on LinkedIn:  <a href="https://www.linkedin.com/in/daniel-nascimento/" target="_blank">[https://www.linkedin.com/in/daniel-nascimento/](https://www.linkedin.com/in/daniel-nascimento/)</a>
 
