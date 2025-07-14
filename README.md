@@ -38,5 +38,8 @@ Let's collaborate and build something awesome together! 💡
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="ArgoCD" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg">
+  <img align="center" alt="Grafana" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg">
+  <img align="center" alt="Prometheus" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg">
+  <img align="center" alt="Datadog" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/datadog.svg">
 </div>
 <br>
